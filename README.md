@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://heipry.github.io/Tests-autoevaluacion-UF1645-SSCE0110/evaluacion.html" target="_blank">
+    <button style="background-color:#2563eb; color:white; padding:10px 20px; border:none; border-radius:8px; font-size:16px; cursor:pointer;">
+      🔀 Ir directamente al test
+    </button>
+  </a>
+</p>
+
+
 # Repositorio de Tests UF1645
 
 Este repositorio contiene la **colección de tests y evaluaciones** estructurados en archivos JavaScript, diseñados para reforzar y evaluar conocimientos sobre la **impartición de acciones formativas para el empleo**.  
