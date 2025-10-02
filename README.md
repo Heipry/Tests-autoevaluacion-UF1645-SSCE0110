@@ -76,7 +76,7 @@ Si tienes Node.js, puedes usar el paquete `serve`:
 npx serve .
 ```
 
-Esto iniciará un servidor y podrás acceder desde tu navegador en la URL que indique la consola.
+Esto iniciará un servidor y podrás acceder desde tu navegador en la URL que indique la consola, recuerda que el punto de entrada es `evaluacion.html`.
 
 ---
 
