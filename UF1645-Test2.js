@@ -6,7 +6,7 @@ export default [
       "Se estructuran formalmente.",
       "Se orientan a las tareas.",
       "Son primarios y formales.",
-      "SSe estructuran formalmente y se orientan a las tareas",
+      "Se estructuran formalmente y se orientan a las tareas",
     ],
     correctAnswer: "Se estructuran formalmente y se orientan a las tareas",
     justification:
