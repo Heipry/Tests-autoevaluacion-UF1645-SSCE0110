@@ -32,7 +32,7 @@ export default [
     ],
     correctAnswer: "Presentación de objetivos.",
     justification:
-      "La **Presentación de objetivos** es una habilidad **introductoria**, que ayuda a preparar y motivar al grupo para lo que se va a enseñar. Las otras opciones son habilidades propias de la fase de desarrollo o explicación de la sesión.",
+      "La Presentación de objetivos es una habilidad introductoria, que ayuda a preparar y motivar al grupo para lo que se va a enseñar. Las otras opciones son habilidades propias de la fase de desarrollo o explicación de la sesión.",
   },
   {
     question:
@@ -45,7 +45,7 @@ export default [
     ],
     correctAnswer: "Todas son correctas.",
     justification:
-      "Para que un método sea eficaz se deben tener en cuenta múltiples criterios: las características de la materia, los **objetivos**, el número de alumnos, la disposición del aula, los recursos, el **tiempo disponible**, el nivel de conocimiento previo del alumnado y el **estilo docente**.",
+      "Para que un método sea eficaz se deben tener en cuenta múltiples criterios: las características de la materia, los objetivos, el número de alumnos, la disposición del aula, los recursos, el tiempo disponible, el nivel de conocimiento previo del alumnado y el estilo docente.",
   },
   {
     question:
@@ -70,7 +70,7 @@ export default [
     ],
     correctAnswer: "Todas son correctas.",
     justification:
-      "Explicar la aplicación práctica de los contenidos mediante ejemplos, historias o anécdotas ayuda a comprender mejor, facilita la relación entre la teoría y el contexto real, y actúa como una habilidad emocional y de **motivación** esencial del docente.",
+      "Explicar la aplicación práctica de los contenidos mediante ejemplos, historias o anécdotas ayuda a comprender mejor, facilita la relación entre la teoría y el contexto real, y actúa como una habilidad emocional y de motivación esencial del docente.",
   },
   {
     question:
@@ -83,7 +83,7 @@ export default [
     ],
     correctAnswer: "Comprobar que los contenidos se han asimilado.",
     justification:
-      "Las preguntas de síntesis son de tipo complejo (composición, resolución) y van dirigidas a la **comprobación de la asimilación** de los contenidos, fomentando el pensamiento original y creativo.",
+      "Las preguntas de síntesis son de tipo complejo (composición, resolución) y van dirigidas a la comprobación de la asimilación de los contenidos, fomentando el pensamiento original y creativo.",
   },
   {
     question:
@@ -122,6 +122,6 @@ export default [
     ],
     correctAnswer: "Descubrimiento.",
     justification:
-      "El **método por descubrimiento** es el más adecuado para grupos maduros, con conocimientos previos y tiempo suficiente, ya que permite que el alumno se convierta en agente de su propia formación a través de la investigación personal y la experiencia de trabajo.",
+      "El método por descubrimiento es el más adecuado para grupos maduros, con conocimientos previos y tiempo suficiente, ya que permite que el alumno se convierta en agente de su propia formación a través de la investigación personal y la experiencia de trabajo.",
   },
 ];

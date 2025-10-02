@@ -103,7 +103,7 @@ export default [
     correctAnswer:
       "La conducta motiva selecciona y analiza la información para poder tomar las decisiones.",
     justification:
-      "La **motivación** es la causa o necesidad interna que impulsa la acción; su proceso es cíclico (carencial, dinámica y reductora) y no se comprueba directamente. La **conducta motivada** no es la que selecciona y analiza la información para tomar decisiones (esto es un proceso cognitivo/racional); la motivación es el motor que *inicia* la acción y el esfuerzo.",
+      "La motivación es la causa o necesidad interna que impulsa la acción; su proceso es cíclico (carencial, dinámica y reductora) y no se comprueba directamente. La conducta motivada no es la que selecciona y analiza la información para tomar decisiones (esto es un proceso cognitivo/racional); la motivación es el motor que *inicia* la acción y el esfuerzo.",
   },
   {
     question:
@@ -116,6 +116,6 @@ export default [
     ],
     correctAnswer: "Todas son correctas.",
     justification:
-      "Las cualidades de la voz (tono, dicción, entonación, fluidez o ritmo) influyen en la comprensión de los mensajes transmitidos. A la hora de transmitir la información podemos ajustar nuestro estilo y forma a la audiencia y al momento en particular (prestando atención a la **vocalización** o ajustando **velocidad** y **volumen**, por ejemplo).",
+      "Las cualidades de la voz (tono, dicción, entonación, fluidez o ritmo) influyen en la comprensión de los mensajes transmitidos. A la hora de transmitir la información podemos ajustar nuestro estilo y forma a la audiencia y al momento en particular (prestando atención a la vocalización o ajustando velocidad y volumen, por ejemplo).",
   },
 ];
